@@ -6,8 +6,5 @@ main:
   - title: "Book"
     url: /book/   
 
-  - title: "Teaching"
-    url: /teaching/    
-
   - title: "Private"
     url: /private/     
