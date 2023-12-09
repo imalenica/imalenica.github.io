@@ -33,9 +33,8 @@ I. Malenica, R. V. Phillips, R. Pirracchio, and M. J. van der Laan, “Multi-tas
 adaptive lasso,” 2023. arXiv:2301.12029. 
 [Available here.](https://arxiv.org/abs/2301.12029)
 
-B. Cho, Y. Mukhin, K. Gan, and I. Malenica, “Kernel debiased plug-in estimation,”
-2023. arXiv:2306.08598. **Finalists for the 18th INFORMS DMDA Workshop Best Paper Competition Award – Theoretical Track (top 5
-papers).**
+B. Cho, Y. Mukhin, K. Gan, and I. Malenica, “Kernel debiased plug-in estimation,” 2023. arXiv:2306.08598.
+**Finalists for the 18th INFORMS DMDA Workshop Best Paper Competition Award – Theoretical Track (top 5 papers).**
 [Available here.](https://arxiv.org/abs/2306.08598)
 
 I. Malenica, A.F. Bibaut, and M.J. van der Laan, “Adaptive sequential design for a single
