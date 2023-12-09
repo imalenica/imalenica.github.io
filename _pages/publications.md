@@ -11,7 +11,7 @@ For the list of most up to date work, please see my [Google Scholar](https://sch
 
 I. Malenica, J. R. Coyle, M. J. van der Laan, and M. L. Petersen, “Adaptive sequential
 surveillance with network and temporal dependence,” 2022. arXiv:2212.02422. (Forthcoming
-in Biometrics). \\
+in Biometrics). \
 [Available here.](https://arxiv.org/abs/2212.02422)
 
 I. Malenica, Y. Guo, K. Gan, and S. Konigorski, “Anytime-valid inference in n-of-1 trials,” in
