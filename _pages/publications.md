@@ -16,11 +16,11 @@ in Biometrics). \
 
 I. Malenica, Y. Guo, K. Gan, and S. Konigorski, “Anytime-valid inference in n-of-1 trials,” in
 Proceedings of the 3rd Machine Learning for Health Symposium, vol. 225
-of Proceedings of Machine Learning Research, pp. 307–322, PMLR, 10 Dec 2023. \
+of Proceedings of Machine Learning Research, pp. 307–322, PMLR, 2023. \
 [Available here.](https://proceedings.mlr.press/v225/malenica23a.html) 
 
 I. Malenica and S. Murphy, “Causality in goal conditioned RL: Return to no future?,” in
-NeurIPS 2023 Workshop on Goal-Conditioned Reinforcement Learning, 2023. \
+NeurIPS 2023 Workshop on Goal-Conditioned Reinforcement Learning, 2023.
 **Paper selected for an Oral Presentation (top 6 papers)** \
 [Available here.](https://openreview.net/forum?id=HJNo1kGVQz)
 
