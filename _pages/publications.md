@@ -24,7 +24,7 @@ NeurIPS 2023 Workshop on Goal-Conditioned Reinforcement Learning, 2023.
 **Paper selected for an Oral Presentation (top 6 papers)** 
 [Available here.](https://openreview.net/forum?id=HJNo1kGVQz)
 
-I. Malenica*, R. V. Phillips*, A. Chambaz, A. E. Hubbard, R. Pirracchio, and M. J. van der
+I. Malenica+, R. V. Phillips+, A. Chambaz, A. E. Hubbard, R. Pirracchio, and M. J. van der
 Laan, “Personalized online ensemble machine learning with applications for dynamic data
 streams,” Statistics in Medicine, vol. 42, no. 7, pp. 1013–1044, 2023.
 [Available here.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9655)
