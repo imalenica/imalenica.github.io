@@ -14,7 +14,9 @@ As a graduate student, I enjoyed numerous collaborations with [Bill and Melinda 
 
 ---
 
-*My research interests combine causal inference, machine learning and non/semiparametric inference. I am particularly interested in problems arising in adaptive sequential experiments, reinforcement learning and personalized health in general.* 
+<p align="center">
+  My research interests combine causal inference, machine learning and non/semiparametric inference. I am particularly interested in problems arising in adaptive sequential experiments, reinforcement learning and personalized health in general. 
+</p>
 
 ---
 
