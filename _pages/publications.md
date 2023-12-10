@@ -7,7 +7,7 @@ author_profile: true
 
 For the list of most up to date work, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=kysY8qoAAAAJ&view_op=list_works&sortby=pubdate) page.
 
-<ins>**Select Recent Work:**</ins>
+### <ins>Select Recent Work:<ins>
 
 > I. Malenica, J. R. Coyle, M. J. van der Laan, and M. L. Petersen, “Adaptive sequential
 surveillance with network and temporal dependence,” 2022. arXiv:2212.02422. (Forthcoming
