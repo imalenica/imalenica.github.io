@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ivana Malenica"
 title_separator          : "-"
 name                     : &name "Ivana Malenica"
-description              : &description "HDSI Fellow at Harvard University"
+description              : &description "HDSI Fellow at Harvard"
 url                      : https://imalenica.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imalenica/imalenica.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Ivana Malenica"
   avatar           : "ace6abae-619a-4223-a50f-41a57b4c9632.jpg"
-  bio              : "HDSI Fellow at Harvard University"
+  bio              : "HDSI Fellow at Harvard"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
