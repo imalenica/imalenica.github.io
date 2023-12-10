@@ -7,14 +7,14 @@ author_profile: true
 
 For the list of most up to date work, please see my [Google Scholar](https://scholar.google.com/citations?hl=en&user=kysY8qoAAAAJ&view_op=list_works&sortby=pubdate) page.
 
-**Select Recent Work:**
+<ins>**Select Recent Work:**</ins>
 
-I. Malenica, J. R. Coyle, M. J. van der Laan, and M. L. Petersen, “Adaptive sequential
+>>> I. Malenica, J. R. Coyle, M. J. van der Laan, and M. L. Petersen, “Adaptive sequential
 surveillance with network and temporal dependence,” 2022. arXiv:2212.02422. (Forthcoming
 in Biometrics). \
 [Available here.](https://arxiv.org/abs/2212.02422)
 
-I. Malenica, Y. Guo, K. Gan, and S. Konigorski, “Anytime-valid inference in n-of-1 trials,” in
+>>> I. Malenica, Y. Guo, K. Gan, and S. Konigorski, “Anytime-valid inference in n-of-1 trials,” in
 Proceedings of the 3rd Machine Learning for Health Symposium, vol. 225
 of Proceedings of Machine Learning Research, pp. 307–322, PMLR, 2023. \
 [Available here.](https://proceedings.mlr.press/v225/malenica23a.html) 
