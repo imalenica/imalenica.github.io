@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Book"
+title: ""
 permalink: /book/
 author_profile: true
 ---
