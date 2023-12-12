@@ -27,7 +27,7 @@ For the list of most up to date work, please see my [Google Scholar](https://sch
 **Causality in goal conditioned RL: Return to no future?** <br> 
 *I. Malenica*, and S. Murphy.<br>
 *NeurIPS Workshop on Goal-Conditioned Reinforcement Learning*, 2023.<br>
-:boom: *Paper selected for an Oral Presentation (top 6 papers).* <br>
+***Paper selected for an Oral Presentation (top 6 papers).*** <br>
 [Available here.](https://openreview.net/forum?id=HJNo1kGVQz)
 
 
@@ -50,7 +50,7 @@ For the list of most up to date work, please see my [Google Scholar](https://sch
 **Kernel debiased plug-in estimation.** <br> 
 B. Cho, Y. Mukhin, K. Gan and *I. Malenica* <br>
 *arXiv preprint*, 2023.<br>
-:boom: *18th INFORMS DMDA Workshop Best Paper Award Finalists – Theoretical Track (top 5 papers).* \
+***18th INFORMS DMDA Workshop Best Paper Award Finalists – Theoretical Track (top 5 papers).*** \
 [Available here.](https://arxiv.org/abs/2306.08598)
 
 
