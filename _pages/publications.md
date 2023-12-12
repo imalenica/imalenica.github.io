@@ -33,7 +33,7 @@ For the list of most up to date work, please see my [Google Scholar](https://sch
 
 
 **Personalized online ensemble machine learning with applications for dynamic data streams.** <br> 
-*I. Malenica* R. V. Phillips+, A. Chambaz, A. E. Hubbard, R. Pirracchio, and M. J. van der Laan.<br>
+*I. Malenica+*, R. V. Phillips+, A. Chambaz, A. E. Hubbard, R. Pirracchio, and M. J. van der Laan.<br>
 *Statistics in Medicine*, 2023.<br>
 [Available here.](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9655)
 
