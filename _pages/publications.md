@@ -10,6 +10,12 @@ For the list of most up to date work, please see my [Google Scholar](https://sch
 ### <ins>Select Recent Work:<ins>
 
 
+[Adaptive sequential surveillance with network and temporal dependence.](https://arxiv.org/abs/2212.02422) <br> 
+*I. Malenica*, J. R. Coyle, M. J. van der Laan, and M. L. Petersen. <br>
+*Biometrics*, 2023.<br>
+
+
+
 **Adaptive sequential surveillance with network and temporal dependence.** <br> 
 *I. Malenica*, J. R. Coyle, M. J. van der Laan, and M. L. Petersen. <br>
 *Biometrics*, 2023.<br>
