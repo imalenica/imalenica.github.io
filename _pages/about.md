@@ -12,6 +12,8 @@ I am a Wojcicki-Troper Data Science Fellow at the [Harvard Data Science Initiati
 
 During my graduate studies, I was fortunate to serve as both a [BIDS Fellow](https://bids.berkeley.edu/about) and the [Biomedical Big Data Fellow](https://ctml.berkeley.edu/biomedical-big-data-training-program-uc-berkeley). I am also a founding core developer of the [tlverse](https://tlverse.org/) project, a software ecosystem dedicated to targeted learning.
 
+I will be joining the [Department of Biostatistics at UNC](https://sph.unc.edu/bios/biostatistics/) as an Assistant Professor in the Spring of 2025.
+
 ---
 
 <p align="center">
