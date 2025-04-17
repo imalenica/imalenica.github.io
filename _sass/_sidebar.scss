@@ -83,14 +83,24 @@
     height: auto;
   }
 
-  img {
-    max-width: 550px;
-    border-radius: 0%;
+  // img {
+    // max-width: 550px;
+  //  border-radius: 0%;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 0%;
+
+  @include breakpoint($large) {
+    padding: 5px;
+    border: 1px solid $border-color;
+  }
+}
+
+
+     
   }
 }
 
