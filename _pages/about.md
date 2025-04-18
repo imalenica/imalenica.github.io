@@ -1,5 +1,6 @@
 ---
-permalink: /
+layout: default
+author_profile: true
 title: " "
 excerpt: "About me"
 author_profile: true
@@ -7,6 +8,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<!-- permalink: / -->
+<!-- added: layout: default
+            author_profile: true -->
+
 
 I am an Assistant Professor in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at the University of North Carolina at Chapel Hill (UNC). Previously, I was a Wojcicki-Troper Data Science Fellow at the [Harvard Data Science Initiative](https://datascience.harvard.edu/) and a Postdoctoral Fellow in the [Department of Statistics](https://statistics.fas.harvard.edu/) at Harvard University. I completed my Ph.D. in the [Division of Biostatistics at UC Berkeley](https://publichealth.berkeley.edu/academics/biostatistics), advised by Professor Mark van der Laan. Before UC Berkeley, I studied mathematics and worked as a fellow at the Translational Genomics Research Institute.
 
