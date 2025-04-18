@@ -15,6 +15,19 @@ layout: default
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.modified %}<meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">{% endif %}
 
+    <style>
+    .sidebar .author__avatar img {
+      width: 150px !important;
+      height: 150px !important;
+      object-fit: cover;
+      border-radius: 0%;
+      border: 3px solid red !important;
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+
+
     <section class="page__content" itemprop="text">
       {{ content }}
     </section>
