@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: default
+layout: splash
 author_profile: true
 title: " "
 excerpt: "About me"
