@@ -4,15 +4,6 @@ collection: teaching
 type: "Advanced Probability and Statistical Inference (I)"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UNC Chapel Hill"
-location: "Fall, 2025"
+date: "2025-09-01"
 ---
 
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
