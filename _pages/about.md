@@ -9,8 +9,10 @@ redirect_from:
 
 I am a tenure-track Assistant Professor in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at the University of North Carolina at Chapel Hill. Previously, I was a HDSI Fellow at the [Harvard Data Science Initiative](https://datascience.harvard.edu/) and a Postdoctoral Fellow in the [Department of Statistics](https://statistics.fas.harvard.edu/) at Harvard University. I received my Ph.D. in Biostatistics from the [Division of Biostatistics](https://publichealth.berkeley.edu/academics/biostatistics) at the University of California, Berkeley, where I was advised by Mark van der Laan. Before that, I earned a degree in Mathematics and worked as a research fellow at the Translational Genomics Research Institute.
 
+I've been fortunate to receive support from the [HDSI Fellowship](https://datascience.harvard.edu/), [BIDS Fellowship](https://bids.berkeley.edu/topics/fellowship-programs) and the [BBD Fellowship](https://ctml.berkeley.edu/biomedical-big-data-training-program-uc-berkeley). 
+
 <div class="spacer"></div>
 
 
-My research interests lie at the intersection of causal inference, non- and semi-parametric statistics, high-dimensional inference, efficiency theory, and ML. I am particularly interested in challenges that arise in longitudinal and structured dependent settings, including adaptive sequential experiments, online learning, reinforcement learning, and broader applications in personalized health.
+My research interests currently lie at the intersection of causal inference, non- and semi-parametric statistics, high-dimensional inference, efficiency theory, and ML. I am particularly interested in challenges that arise in longitudinal and structured dependent settings, including adaptive sequential experiments, online learning, reinforcement learning, and broader applications in personalized health.
 {: .notice2}
