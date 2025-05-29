@@ -502,3 +502,15 @@ a.reversefootnote {
   color: $danger-color;
   font-weight: bold;
 }
+
+.notice2 {
+  background-color: #f8f8f8;         // light gray background
+  border: 1px solid #ccc;            // subtle border
+  padding: 1em 1.5em;
+  margin: 1.5em 0;
+  border-radius: 0px;
+  text-align: center;                // center the text
+  font-size: 1.5rem;                 // larger font size
+  font-weight: 500;
+  line-height: 1.6;
+}
