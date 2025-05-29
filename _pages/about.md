@@ -14,5 +14,6 @@ I've been fortunate to receive support from the [HDSI Fellowship](https://datasc
 <div class="spacer"></div>
 
 
-My research interests currently lie at the intersection of causal inference, non- and semi-parametric statistics, high-dimensional inference, efficiency theory, and machine learning. I am particularly interested in challenges that arise in longitudinal and structured dependent settings, including adaptive sequential experiments, online learning, reinforcement learning, and broader applications in (personalized, public) health.
+My research interests lie at the intersection of causal inference, non- and semi-parametric statistics, high-dimensional inference, efficiency theory, and machine learning. \\ 
+I am particularly interested in challenges that arise in longitudinal and structured dependent settings, including adaptive sequential experiments, online learning, reinforcement learning, and broader applications in (personalized, public) health.
 {: .notice2}
