@@ -15,11 +15,11 @@
 
   /* sticky footer fix start */
   position: absolute;
-  bottom: 0em;
+  bottom: 0;
   height: auto;
   /* sticky footer fix end */
 
-  margin-top: 1.5em; // reduced from 3em
+  margin-top: 1em; // further reduced
 
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -31,9 +31,9 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 1em;
+    margin-top: 0.5em; // tighter spacing
     max-width: 100%;
-    padding: 0 1em 0.5em; // reduced bottom padding
+    padding: 0 0.5em 0.3em; // compact padding
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -43,6 +43,7 @@
   a {
     color: inherit;
     text-decoration: none;
+    font-size: 0.65rem; // tiny font
 
     &:hover {
       text-decoration: underline;
@@ -59,8 +60,9 @@
 
 .page__footer-copyright {
   font-family: $global-font-family;
-  font-size: 0.7rem; // smaller
-  line-height: 1.2;
+  font-size: 0.65rem;
+  line-height: 1.1;
+  margin-top: 0.25em;
 }
 
 .page__footer-follow {
@@ -72,21 +74,20 @@
 
   li {
     display: inline-block;
-    padding-top: 2px;   // reduced
-    padding-bottom: 2px;
+    padding: 1px 4px;
     font-family: $sans-serif-narrow;
-    font-size: 0.7rem;  // smaller
+    font-size: 0.65rem;
     text-transform: uppercase;
   }
 
   li + li:before {
     content: "";
-    padding-right: 5px;
+    padding-right: 4px;
   }
 
   a {
-    padding-right: 10px;
-    font-weight: bold;
+    padding-right: 6px;
+    font-weight: 600;
   }
 
   .social-icons {
@@ -95,4 +96,5 @@
     }
   }
 }
+
 
