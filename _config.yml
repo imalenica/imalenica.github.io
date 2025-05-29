@@ -15,14 +15,14 @@ name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "imalenica/imalenica.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ace6abae-619a-4223-a50f-41a57b4c9632.jpg"
+  avatar           : "/images/ace6abae-619a-4223-a50f-41a57b4c9632.jpg"
   name             : "Ivana Malenica"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor in Biostatistics"
