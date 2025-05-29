@@ -7,3 +7,5 @@ redirect_from:
 ---
 
 I was born and raised in beatiful [Novi Sad, Serbia](https://novisad.travel/en/).
+
+![Novi Sad](/images/IMG_9567-min.jpg)
