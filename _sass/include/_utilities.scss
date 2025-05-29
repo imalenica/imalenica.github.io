@@ -510,7 +510,12 @@ a.reversefootnote {
   margin: 1.5em 0;
   border-radius: 0px;
   text-align: center;                // center the text
-  font-size: 1.5rem;                 // larger font size
-  font-weight: 500;
+  font-size: 1.3rem;                 // larger font size
+  font-weight: 400;                  // could do 500
   line-height: 1.6;
+  margin-top: 5em;
+}
+
+.spacer {
+  margin-top: 5em;
 }
