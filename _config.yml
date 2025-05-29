@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ivana Malenica"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Ivana Malenica"
 description              : &description "personal description"
