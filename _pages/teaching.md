@@ -6,6 +6,7 @@ redirect_from:
   - /teaching.html
 ---
 
+**Fall 2026**: Advanced Probability and Statistical Inference I *(BIOS 760, UNC at Chapel Hill)*
 **Fall 2025**: Advanced Probability and Statistical Inference I *(BIOS 760, UNC at Chapel Hill)*
 
 
