@@ -11,7 +11,7 @@ I am a tenure-track Assistant Professor in the [Department of Biostatistics](htt
 
 <div class="spacer2"></div>
 
-I've been fortunate to receive support from the [HDSI Fellowship](https://datascience.harvard.edu/), [BIDS Fellowship](https://bids.berkeley.edu/topics/fellowship-programs) and the [BBD Fellowship](https://ctml.berkeley.edu/biomedical-big-data-training-program-uc-berkeley). 
+I've been fortunate to receive support from the [HDSI](https://datascience.harvard.edu/), [BIDS](https://bids.berkeley.edu/topics/fellowship-programs) and the [BBD Fellowship](https://ctml.berkeley.edu/biomedical-big-data-training-program-uc-berkeley). 
 
 <div class="spacer"></div>
 
