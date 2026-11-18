@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenure-track Assistant Professor in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at the University of North Carolina (UNC) at Chapel Hill and an affiliate of the UNC Gillings Center for Artificial Intelligence and Public Health [(CAIPH)](https://sph.unc.edu/resource-pages/caiph/). 
+I am a tenure-track Assistant Professor in the [Department of Biostatistics](https://sph.unc.edu/bios/biostatistics/) at the University of North Carolina and an affiliate of UNC Gillings Center for AI and Public Health [(CAIPH)](https://sph.unc.edu/resource-pages/caiph/). 
 
 <div class="spacer2"></div>
 
-Previously, I was a HDSI Fellow at the [Harvard Data Science Initiative](https://datascience.harvard.edu/) and a Postdoctoral Fellow in the [Department of Statistics](https://statistics.fas.harvard.edu/) at Harvard. I received my Ph.D. in Biostatistics from the [Division of Biostatistics](https://publichealth.berkeley.edu/academics/biostatistics) at the University of California, Berkeley, advised by Mark van der Laan. Before that, I studied mathematics and worked as a research fellow at the Translational Genomics Research Institute (TGen). I've been fortunate to receive support from the [HDSI](https://datascience.harvard.edu/), [BIDS](https://bids.berkeley.edu/topics/fellowship-programs) and the [BBD Fellowship](https://ctml.berkeley.edu/biomedical-big-data-training-program-uc-berkeley). 
+Previously, I was a Fellow at the [Harvard Data Science Initiative](https://datascience.harvard.edu/) in the [Department of Statistics](https://statistics.fas.harvard.edu/) at Harvard. I received my Ph.D. in Biostatistics from the [Division of Biostatistics](https://publichealth.berkeley.edu/academics/biostatistics) at the University of California, Berkeley, advised by Mark van der Laan. Before that, I studied mathematics and worked as a research fellow at TGen. I've been fortunate to receive support from [HDSI](https://datascience.harvard.edu/), [BIDS](https://bids.berkeley.edu/topics/fellowship-programs) and the [BBD Fellowship](https://ctml.berkeley.edu/biomedical-big-data-training-program-uc-berkeley). 
 
 <div class="spacer"></div>
 
